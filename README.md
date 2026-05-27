@@ -1,4 +1,4 @@
-# Automação de Importação e Tratamento de Cadastro de Clientes para Implantação de ERP
+# Automação e Tratamento de Cadastro de Clientes para Implantação de ERP
 ---
 ## Sobre o Projeto 📌
 
